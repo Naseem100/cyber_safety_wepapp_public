@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dca982b.chunk.css",
+    "main.js": "/static/js/main.e099f6a5.chunk.js",
+    "main.js.map": "/static/js/main.e099f6a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e250a274.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e250a274.js.map",
+    "static/css/2.52df8c41.chunk.css": "/static/css/2.52df8c41.chunk.css",
+    "static/js/2.77042944.chunk.js": "/static/js/2.77042944.chunk.js",
+    "static/js/2.77042944.chunk.js.map": "/static/js/2.77042944.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a13cc33c3e1034c23325f2e8c67e222e.js": "/precache-manifest.a13cc33c3e1034c23325f2e8c67e222e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.52df8c41.chunk.css.map": "/static/css/2.52df8c41.chunk.css.map",
+    "static/css/main.5dca982b.chunk.css.map": "/static/css/main.5dca982b.chunk.css.map",
+    "static/js/2.77042944.chunk.js.LICENSE.txt": "/static/js/2.77042944.chunk.js.LICENSE.txt",
+    "static/media/CyberSafetyManual_SK2.pdf": "/static/media/CyberSafetyManual_SK2.d4622672.pdf",
+    "static/media/cams.png": "/static/media/cams.a3e97a26.png",
+    "static/media/font-awesome.scss": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/mit-white.jpeg": "/static/media/mit-white.14977119.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e250a274.js",
+    "static/css/2.52df8c41.chunk.css",
+    "static/js/2.77042944.chunk.js",
+    "static/css/main.5dca982b.chunk.css",
+    "static/js/main.e099f6a5.chunk.js"
+  ]
+}
